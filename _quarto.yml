@@ -31,7 +31,6 @@ website:
     - title: "Assignments"
       style: "docked"
       search: true
-      background: light
       contents:
         - assignments.qmd
         - assignments/assignment-1.qmd
