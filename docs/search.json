@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Analytics Lab",
+    "title": "Team xxxx - Data Analytics Project",
     "section": "",
-    "text": "Hello! My name is xxx xxxx.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
+    "text": "Team xxxx - Data Analytics Project\nThis is our template. This is our webpage to publish our project activities.\n\nGroup Members\n\nEdin Džeko\nDušan Tadić\nFrederico Rodrigues de Paula Santos\nSebastian Szymański\n\n\n\nProject Topic\nFenerbahçe’s championship story of 2023-2024\n\n\nData Set\nhttps://www.tff.org/default.aspx?pageID=198\n\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
@@ -61,5 +61,26 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "team_members.html",
+    "href": "team_members.html",
+    "title": "Team Members",
+    "section": "",
+    "text": "Edin Džeko’s analytic lab\nDušan Tadić’s analytic lab\nFrederico Rodrigues de Paula Santos\nSebastian Szymański\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "team_members.html#employements",
+    "href": "team_members.html#employements",
+    "title": "About Me",
+    "section": "Employements",
+    "text": "Employements\n\nFirm xxx, position xx, year xxx\nFirm yyy, position yyy, year yyy"
+  },
+  {
+    "objectID": "team_members.html#internships",
+    "href": "team_members.html#internships",
+    "title": "About Me",
+    "section": "Internships",
+    "text": "Internships\n\nFirm aaa, position xx, year xxx\nFirm bbb, position yyy, year yyy"
   }
 ]

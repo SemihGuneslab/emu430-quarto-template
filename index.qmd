@@ -1,12 +1,26 @@
 ---
-title: "Welcome to My Analytics Lab"
-sidebar: false 
+title: "Team xxxx - Data Analytics Project"
+sidebar: true 
 ---
 
-Hello! My name is xxx xxxx.
+Team xxxx - Data Analytics Project
 
-This is my personal webpage.
+This is our template. This is our webpage to publish our project activities.
 
-Please stay tuned to follow my works on data analytics, blog posts, and more.
+# Group Members
 
-This is our template.
+1.  Edin Džeko
+
+2.  Dušan Tadić
+
+3.  Frederico Rodrigues de Paula Santos
+
+4.  Sebastian Szymański
+
+# Project Topic
+
+Fenerbahçe's championship story of 2023-2024
+
+# Data Set
+
+<https://www.tff.org/default.aspx?pageID=198>
